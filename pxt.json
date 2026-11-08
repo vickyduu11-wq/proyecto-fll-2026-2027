@@ -1,5 +1,6 @@
 {
     "name": "Proyecto FLL 2026-2027",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
