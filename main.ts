@@ -155,7 +155,7 @@ function intro () {
         6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
         6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
         `)
-    game.showLongText("INVESTIGA EL AMAZONIA                                                       POR LICEO N°2 DE SALTO ANTONIO M. GROMPONE", DialogLayout.Full)
+    game.showLongText("INVESTIGA LA AMAZONIA                                                       POR LICEO N°2 DE SALTO ANTONIO M. GROMPONE", DialogLayout.Full)
     scene.setBackgroundImage(img`
         dddddddddddddddddddddddddddfffffffffffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
         dddddddddddddddddddddddddddfffffffffffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
